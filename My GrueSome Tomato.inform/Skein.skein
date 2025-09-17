@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1269">
+<Skein rootNode="node-1339">
     <generator>Inform Mac Client (Inform version )</generator>
-    <item nodeId="node-1269">
+    <item nodeId="node-1339">
         <command xml:space="preserve">My GrueSome Tomato</command>
         <result xml:space="preserve">
 
@@ -14,136 +14,136 @@ Release 1 / Serial number 250910 / Inform 7 build 6M62 (I6/v6.34 lib 6/12N) SD
 upon closer inspection the tomato basket is rather moldy
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1323"></child>
-            <child nodeId="node-1322"></child>
-            <child nodeId="node-1320"></child>
-            <child nodeId="node-1319"></child>
-            <child nodeId="node-1315"></child>
-            <child nodeId="node-1312"></child>
-            <child nodeId="node-1310"></child>
-            <child nodeId="node-1304"></child>
-            <child nodeId="node-1296"></child>
-            <child nodeId="node-1294"></child>
-            <child nodeId="node-1288"></child>
-            <child nodeId="node-1285"></child>
-            <child nodeId="node-1277"></child>
-            <child nodeId="node-1275"></child>
-            <child nodeId="node-1332"></child>
-            <child nodeId="node-1330"></child>
-            <child nodeId="node-1270"></child>
+        <children><child nodeId="node-1401"></child>
+            <child nodeId="node-1400"></child>
+            <child nodeId="node-1398"></child>
+            <child nodeId="node-1397"></child>
+            <child nodeId="node-1393"></child>
+            <child nodeId="node-1390"></child>
+            <child nodeId="node-1388"></child>
+            <child nodeId="node-1382"></child>
+            <child nodeId="node-1374"></child>
+            <child nodeId="node-1372"></child>
+            <child nodeId="node-1366"></child>
+            <child nodeId="node-1363"></child>
+            <child nodeId="node-1354"></child>
+            <child nodeId="node-1352"></child>
+            <child nodeId="node-1347"></child>
+            <child nodeId="node-1345"></child>
+            <child nodeId="node-1340"></child>
         </children>
     </item>
-    <item nodeId="node-1270">
+    <item nodeId="node-1340">
         <command xml:space="preserve">x chair</command>
         <result xml:space="preserve">A beautful old wooden executive seat.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1271"></child>
+        <children><child nodeId="node-1341"></child>
         </children>
     </item>
-    <item nodeId="node-1271">
+    <item nodeId="node-1341">
         <command xml:space="preserve">x chair</command>
         <result xml:space="preserve">A beautful old wooden executive seat.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1272"></child>
+        <children><child nodeId="node-1342"></child>
         </children>
     </item>
-    <item nodeId="node-1272">
+    <item nodeId="node-1342">
         <command xml:space="preserve">x chair</command>
         <result xml:space="preserve">A beautful old wooden executive seat.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1273"></child>
+        <children><child nodeId="node-1343"></child>
         </children>
     </item>
-    <item nodeId="node-1273">
+    <item nodeId="node-1343">
         <command xml:space="preserve">x chair</command>
         <result xml:space="preserve">A beautful old wooden executive seat.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1274"></child>
+        <children><child nodeId="node-1344"></child>
         </children>
     </item>
-    <item nodeId="node-1274">
+    <item nodeId="node-1344">
         <command xml:space="preserve">x chair</command>
         <result xml:space="preserve">A beautful old wooden executive seat.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1330">
+    <item nodeId="node-1345">
         <command xml:space="preserve">x apple</command>
         <result xml:space="preserve">The apple gleams, so happy to be picked it explodes!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1331"></child>
+        <children><child nodeId="node-1346"></child>
         </children>
     </item>
-    <item nodeId="node-1331">
+    <item nodeId="node-1346">
         <command xml:space="preserve">x apple</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1332">
+    <item nodeId="node-1347">
         <command xml:space="preserve">take red apple</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1333"></child>
+        <children><child nodeId="node-1348"></child>
         </children>
     </item>
-    <item nodeId="node-1333">
+    <item nodeId="node-1348">
         <command xml:space="preserve">take green apple</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1334"></child>
+        <children><child nodeId="node-1349"></child>
         </children>
     </item>
-    <item nodeId="node-1334">
+    <item nodeId="node-1349">
         <command xml:space="preserve">x red apple</command>
         <result xml:space="preserve">The apple gleams, so happy to be picked it explodes and a green apple appears
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1335"></child>
+        <children><child nodeId="node-1350"></child>
         </children>
     </item>
-    <item nodeId="node-1335">
+    <item nodeId="node-1350">
         <command xml:space="preserve">take apple</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1336"></child>
+        <children><child nodeId="node-1351"></child>
         </children>
     </item>
-    <item nodeId="node-1336">
+    <item nodeId="node-1351">
         <command xml:space="preserve">x green apple</command>
         <result xml:space="preserve">You see nothing special about green apple.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1275">
+    <item nodeId="node-1352">
         <command xml:space="preserve">take chair</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1276"></child>
+        <children><child nodeId="node-1353"></child>
         </children>
     </item>
-    <item nodeId="node-1276">
+    <item nodeId="node-1353">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   Chair
@@ -151,101 +151,101 @@ upon closer inspection the tomato basket is rather moldy
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1277">
+    <item nodeId="node-1354">
         <command xml:space="preserve">take apple</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1282"></child>
-            <child nodeId="node-1281"></child>
-            <child nodeId="node-1278"></child>
-            <child nodeId="node-1329"></child>
+        <children><child nodeId="node-1360"></child>
+            <child nodeId="node-1359"></child>
+            <child nodeId="node-1356"></child>
+            <child nodeId="node-1355"></child>
         </children>
     </item>
-    <item nodeId="node-1329">
+    <item nodeId="node-1355">
         <command xml:space="preserve">x apple</command>
         <result xml:space="preserve">It's a red apple
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1278">
+    <item nodeId="node-1356">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   apple
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1279"></child>
+        <children><child nodeId="node-1357"></child>
         </children>
     </item>
-    <item nodeId="node-1279">
+    <item nodeId="node-1357">
         <command xml:space="preserve">eat apple</command>
         <result xml:space="preserve">You eat apple. Not bad.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1280"></child>
+        <children><child nodeId="node-1358"></child>
         </children>
     </item>
-    <item nodeId="node-1280">
+    <item nodeId="node-1358">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying nothing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1281">
+    <item nodeId="node-1359">
         <command xml:space="preserve">eat apple</command>
         <result xml:space="preserve">That's plainly inedible.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1282">
+    <item nodeId="node-1360">
         <command xml:space="preserve">drop apple</command>
         <result xml:space="preserve">Dropped.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1283"></child>
+        <children><child nodeId="node-1361"></child>
         </children>
     </item>
-    <item nodeId="node-1283">
+    <item nodeId="node-1361">
         <command xml:space="preserve">eat apple</command>
         <result xml:space="preserve">It's rotten
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1284"></child>
+        <children><child nodeId="node-1362"></child>
         </children>
     </item>
-    <item nodeId="node-1284">
+    <item nodeId="node-1362">
         <command xml:space="preserve">x apple</command>
         <result xml:space="preserve">It's gross yo...
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1285">
+    <item nodeId="node-1363">
         <command xml:space="preserve">stand on chair</command>
         <result xml:space="preserve">That's not something you can stand on.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1286"></child>
+        <children><child nodeId="node-1364"></child>
         </children>
     </item>
-    <item nodeId="node-1286">
+    <item nodeId="node-1364">
         <command xml:space="preserve">climb on chair</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1287"></child>
+        <children><child nodeId="node-1365"></child>
         </children>
     </item>
-    <item nodeId="node-1287">
+    <item nodeId="node-1365">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">Rook
 It's a wonderfully huge tower! There is a forrest to the east.
@@ -255,7 +255,7 @@ You can see Chair here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1288">
+    <item nodeId="node-1366">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Hallway
@@ -265,36 +265,36 @@ You can see funky hat here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1292"></child>
-            <child nodeId="node-1289"></child>
+        <children><child nodeId="node-1370"></child>
+            <child nodeId="node-1367"></child>
         </children>
     </item>
-    <item nodeId="node-1289">
+    <item nodeId="node-1367">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1290"></child>
+        <children><child nodeId="node-1368"></child>
         </children>
     </item>
-    <item nodeId="node-1290">
+    <item nodeId="node-1368">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1291"></child>
+        <children><child nodeId="node-1369"></child>
         </children>
     </item>
-    <item nodeId="node-1291">
+    <item nodeId="node-1369">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1292">
+    <item nodeId="node-1370">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Classroom
@@ -304,10 +304,10 @@ You can see apple and old table here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1293"></child>
+        <children><child nodeId="node-1371"></child>
         </children>
     </item>
-    <item nodeId="node-1293">
+    <item nodeId="node-1371">
         <command xml:space="preserve">straight</command>
         <result xml:space="preserve">
 Hallway
@@ -318,32 +318,32 @@ You can see funky hat here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1294">
+    <item nodeId="node-1372">
         <command xml:space="preserve">open cabinet</command>
         <result xml:space="preserve">That's already open.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1295"></child>
+        <children><child nodeId="node-1373"></child>
         </children>
     </item>
-    <item nodeId="node-1295">
+    <item nodeId="node-1373">
         <command xml:space="preserve">x cabinet</command>
         <result xml:space="preserve">In cabinet is apple.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1296">
+    <item nodeId="node-1374">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1297"></child>
+        <children><child nodeId="node-1375"></child>
         </children>
     </item>
-    <item nodeId="node-1297">
+    <item nodeId="node-1375">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Hallway
@@ -353,21 +353,21 @@ You can see funky hat here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1300"></child>
-            <child nodeId="node-1298"></child>
+        <children><child nodeId="node-1378"></child>
+            <child nodeId="node-1376"></child>
         </children>
     </item>
-    <item nodeId="node-1298">
+    <item nodeId="node-1376">
         <command xml:space="preserve">wear hat</command>
         <result xml:space="preserve">(first taking funky hat)
 You put on funky hat.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1299"></child>
+        <children><child nodeId="node-1377"></child>
         </children>
     </item>
-    <item nodeId="node-1299">
+    <item nodeId="node-1377">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying:
   funky hat (being worn)
@@ -375,7 +375,7 @@ You put on funky hat.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1300">
+    <item nodeId="node-1378">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Classroom
@@ -385,93 +385,93 @@ You can see apple here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1301"></child>
+        <children><child nodeId="node-1379"></child>
         </children>
     </item>
-    <item nodeId="node-1301">
+    <item nodeId="node-1379">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1302"></child>
+        <children><child nodeId="node-1380"></child>
         </children>
     </item>
-    <item nodeId="node-1302">
+    <item nodeId="node-1380">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1303"></child>
+        <children><child nodeId="node-1381"></child>
         </children>
     </item>
-    <item nodeId="node-1303">
+    <item nodeId="node-1381">
         <command xml:space="preserve">go north</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1304">
+    <item nodeId="node-1382">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">upon closer inspection the tomato basket is rather moldy
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1306"></child>
-            <child nodeId="node-1305"></child>
+        <children><child nodeId="node-1384"></child>
+            <child nodeId="node-1383"></child>
         </children>
     </item>
-    <item nodeId="node-1305">
+    <item nodeId="node-1383">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">upon closer inspection the tomato basket is rather moldy
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1306">
+    <item nodeId="node-1384">
         <command xml:space="preserve">hop</command>
         <result xml:space="preserve">You jump on the spot.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1307"></child>
+        <children><child nodeId="node-1385"></child>
         </children>
     </item>
-    <item nodeId="node-1307">
+    <item nodeId="node-1385">
         <command xml:space="preserve">x self</command>
         <result xml:space="preserve">As good-looking as ever.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1308"></child>
+        <children><child nodeId="node-1386"></child>
         </children>
     </item>
-    <item nodeId="node-1308">
+    <item nodeId="node-1386">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1309"></child>
+        <children><child nodeId="node-1387"></child>
         </children>
     </item>
-    <item nodeId="node-1309">
+    <item nodeId="node-1387">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1310">
+    <item nodeId="node-1388">
         <command xml:space="preserve">kill tomator with wisk</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1311"></child>
+        <children><child nodeId="node-1389"></child>
         </children>
     </item>
-    <item nodeId="node-1311">
+    <item nodeId="node-1389">
         <command xml:space="preserve">kill tomato with wisk</command>
         <result xml:space="preserve">Merr! I'm all mixed up!
 
@@ -485,25 +485,25 @@ Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?
 &gt; </result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1312">
+    <item nodeId="node-1390">
         <command xml:space="preserve">kill tomato monster with hands</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1313"></child>
+        <children><child nodeId="node-1391"></child>
         </children>
     </item>
-    <item nodeId="node-1313">
+    <item nodeId="node-1391">
         <command xml:space="preserve">kill tomato monster with shovel</command>
         <result xml:space="preserve">ouch!
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1314"></child>
+        <children><child nodeId="node-1392"></child>
         </children>
     </item>
-    <item nodeId="node-1314">
+    <item nodeId="node-1392">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">Rook
 It's a wonderfully huge tower! There is a forrest to the east.
@@ -515,40 +515,40 @@ You can also see Chair and shovel here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1315">
+    <item nodeId="node-1393">
         <command xml:space="preserve">hop</command>
         <result xml:space="preserve">You jump on the spot.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1318"></child>
-            <child nodeId="node-1316"></child>
+        <children><child nodeId="node-1396"></child>
+            <child nodeId="node-1394"></child>
         </children>
     </item>
-    <item nodeId="node-1316">
+    <item nodeId="node-1394">
         <command xml:space="preserve">x self</command>
         <result xml:space="preserve">As good-looking as ever.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1317"></child>
+        <children><child nodeId="node-1395"></child>
         </children>
     </item>
-    <item nodeId="node-1317">
+    <item nodeId="node-1395">
         <command xml:space="preserve">hop</command>
         <result xml:space="preserve">You jump on the spot.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1318">
+    <item nodeId="node-1396">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1319">
+    <item nodeId="node-1397">
         <command xml:space="preserve">forward</command>
         <result xml:space="preserve">
 Hallway
@@ -559,15 +559,15 @@ You can see funky hat here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1320">
+    <item nodeId="node-1398">
         <command xml:space="preserve">eat apple</command>
         <result xml:space="preserve">It's rotten
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1321"></child>
+        <children><child nodeId="node-1399"></child>
         </children>
     </item>
-    <item nodeId="node-1321">
+    <item nodeId="node-1399">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">Classroom
 It's a delightful room for of games, north the hallway
@@ -577,7 +577,7 @@ You can see apple here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1322">
+    <item nodeId="node-1400">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">
 forrest
@@ -586,25 +586,25 @@ So many woods.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1323">
+    <item nodeId="node-1401">
         <command xml:space="preserve">climb on table</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1324"></child>
+        <children><child nodeId="node-1402"></child>
         </children>
     </item>
-    <item nodeId="node-1324">
+    <item nodeId="node-1402">
         <command xml:space="preserve">climb on old table</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1325"></child>
+        <children><child nodeId="node-1403"></child>
         </children>
     </item>
-    <item nodeId="node-1325">
+    <item nodeId="node-1403">
         <command xml:space="preserve">l</command>
         <result xml:space="preserve">Classroom
 It's a delightful room for of games, north the hallway

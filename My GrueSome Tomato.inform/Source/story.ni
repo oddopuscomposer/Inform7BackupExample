@@ -5,6 +5,7 @@ Book 1 - Locations
 
 [Defining a "kill" actions...]
 Kitchen is a room. "A clean kitchen."
+Dining room is a room.
 
 part 1 - kitchen
 
@@ -15,8 +16,7 @@ check looking:
 		say "upon closer inspection the tomato basket is rather moldy" instead.
 	
 [Action]
-killing is an action applying to two visible thing.
-Understand "kill [someone] with [something]" as killing.
+
 
 [Creating a monster to kill and things to kill it with]
 tomato monster is an person in kitchen.
